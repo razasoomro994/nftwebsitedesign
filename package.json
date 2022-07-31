@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@theatre/core": "^0.4.7"
+  }
+}
